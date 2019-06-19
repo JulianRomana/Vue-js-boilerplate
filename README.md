@@ -1,9 +1,8 @@
-# Projet intensif web-document
+# Vue-js-boilerplate
 
-Projet intensif en 2 semaines pour HETIC
-
-Réaliser un web-documentaire.
-Dans notre cas : Naoto Matsumura : le gardien des animaux.
+Petit boilerplate pour les projets vueJS avec parcel
 
 Pour le faire fonctionner :
 npm install
+
+# Projet-intensif-Naoto-
